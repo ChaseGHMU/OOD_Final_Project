@@ -2,6 +2,8 @@
 <h3 style="text-align:center;"> Members: Chase Allen </h3>
 <h3 style="text-align:center;"> Swift vs. Java </h3>
 
+For this project I decided to do a comparison between Swift and Java. I chose these two languages as they are the two that I will be doing for my future career.
+
 [1. Purpose](LanguagePurposes.md)
 
 [2. Unique Features](UniqueFeatures.md)
