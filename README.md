@@ -28,11 +28,13 @@ For this project I decided to do a comparison between Swift and Java. I chose th
 
 [12. References and Values](ReferenceVsValue.md)
 
-[13. Lambda Expressions and Closures](LambdasAndClosures.md)
+[13 Null/Nil references](NullReferences.md)
 
-[14. Listeners and Event Handlers](ListenersAndEventHandlers.md)
+[14. Lambda Expressions and Closures](LambdasAndClosures.md)
 
-[15. Programming](Programming.md)
+[15. Listeners and Event Handlers](ListenersAndEventHandlers.md)
 
-[16. Multithreading](Multithreading.md)
+[16. Programming](Programming.md)
+
+[17. Multithreading](Multithreading.md)
 
