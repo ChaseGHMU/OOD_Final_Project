@@ -42,4 +42,4 @@ a !== b
 #### Pages
 [11. Memory Management](MemoryManagement.md)
 
-[13. Null/Nil references](NullReferences.md)
+[13. Error and Exception Handling](ExceptionHandling.md)
