@@ -30,4 +30,4 @@ protocol SomeProtocol {
 
 [7. Properties](Properties.md)
 
-[8. Inheritance/Extension](Inheritance.md)
+[9. Inheritance/Extension](Inheritance.md)
