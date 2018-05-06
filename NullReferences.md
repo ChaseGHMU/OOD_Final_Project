@@ -35,3 +35,7 @@ if let test = test {
 ```
 
 #### Pages
+
+[12. References and Values](ReferenceVsValue.md)
+
+[14. Lambda Expressions and Closures](LambdasAndClosures.md)
