@@ -17,6 +17,6 @@ System.out.prinln("Class Name: " + class.getName());
 - Swift does not allow reflection at the moment.
 
 #### Pages
-[9. Inheritance/Extensions](InheritanceAndExtensions.md)
+[9. Inheritance/Extensions](Inheritance.md)
 
 [11. Memory Management](MemoryManagement.md)
