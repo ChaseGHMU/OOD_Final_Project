@@ -38,4 +38,4 @@ if let test = test {
 
 [12. References and Values](ReferenceVsValue.md)
 
-[14. Lambda Expressions and Closures](LambdasAndClosures.md)
+[15. Lambda Expressions and Closures](LambdasAndClosures.md)
