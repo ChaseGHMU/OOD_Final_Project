@@ -20,6 +20,6 @@ if let myName = myName {
 ```
 
 #### Pages
-[1. Language Purpose](LanguagePurpose.md)
+[1. Language Purpose](LanguagePurposes.md)
 
 [3. Namespaces](Namespaces.md)
