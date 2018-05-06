@@ -36,6 +36,6 @@ if let test = test {
 
 #### Pages
 
-[13. Null/Nil References](NullReferences.md)
+[13. Error and Exception Handling](ExceptionHandling.md)
 
 [15. Lambda Expressions and Closures](LambdasAndClosures.md)
