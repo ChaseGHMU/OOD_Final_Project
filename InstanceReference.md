@@ -26,4 +26,4 @@ PocketCaddyData.getHoles(courseId: courseId, completionHandler: { result in
 #### Pages
 [5. Classes](Classes.md)
 
-[7. Interfaces/Protocols](InterfacesAndProtocols.md)
+[7. Properties](Properties.md)
