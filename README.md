@@ -34,7 +34,9 @@ For this project I decided to do a comparison between Swift and Java. I chose th
 
 [15. Listeners and Event Handlers](ListenersAndEventHandlers.md)
 
-[16. Programming](Programming.md)
+[16. Singleton](Singleton.md)
 
-[17. Multithreading](Multithreading.md)
+[17. Programming](Programming.md)
+
+[18. Multithreading](Multithreading.md)
 
