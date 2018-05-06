@@ -7,6 +7,6 @@
 
 #### Pages
 
-[14. Lambda Expressions and Closures](LambdasAndClosures.md)
+[15. Lambda Expressions and Closures](LambdasAndClosures.md)
 
-[16. Singleton](Singleton.md)
+[17. Singleton](Singleton.md)
