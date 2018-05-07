@@ -26,7 +26,7 @@ public class FancyClass implements MyInterface {
 
 Example:
 
-```
+```swift
 import UIKit
 import PackageB
 
